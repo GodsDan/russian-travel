@@ -1,0 +1,7 @@
+.lead__image {
+    display: block;
+    max-width: 100%;
+    min-height: 615px;
+    object-fit: cover;
+    padding-top: 64px;    
+}
