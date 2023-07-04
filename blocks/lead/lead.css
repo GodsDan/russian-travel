@@ -3,3 +3,10 @@
     flex-direction: column;
     padding: 56px 148px 0 148px;
 }
+
+@media screen and (max-width: 1024px) {
+    .lead {
+        padding: 48px 48px 0 48px;
+    }
+}
+
