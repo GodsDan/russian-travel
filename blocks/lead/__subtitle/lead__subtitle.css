@@ -10,3 +10,26 @@
     max-width: 640px;
     align-self: center;
 }
+
+@media screen and (max-width: 700px) {
+    .lead__subtitle {
+        font-size: 20px;
+        line-height: 26px;
+        max-width: 70%;
+    }
+}
+
+@media screen and (max-width: 475px) {
+    .lead__subtitle {
+        font-size: 16px;
+        line-height: 20px;
+
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .lead__subtitle {
+        max-width: 288px;
+    
+    }    
+}

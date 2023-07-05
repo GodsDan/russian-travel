@@ -5,3 +5,32 @@
     padding: 0;
     margin: 0;
 }
+
+@media screen and (max-width: 900px){
+    .place__title {
+        font-size: 62px;
+        line-height: 66px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    .place__title {
+        font-size: 42px;
+        line-height: 46px;
+        max-width: 340px;
+    }
+}
+
+@media screen and (max-width: 468px) {
+    .place__title {
+        font-size: 36px;
+        line-height: 40px;
+    }
+}
+
+@media screen and (max-width: 368px) {
+    .place__title {
+        font-size: 32px;
+        line-height: 35px;
+    }
+}

@@ -3,7 +3,8 @@
     max-width: 100%;
     min-height: 615px;
     object-fit: cover;
-    padding-top: 64px;    
+    padding-top: 64px;  
+    transition: 1s linear;  
 }
 
 @media screen and (max-width: 1280px) {
