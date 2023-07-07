@@ -18,6 +18,7 @@
         margin-bottom: 32px;
         line-height: 24px;
         font-size: 24px;
+        margin-right: 0;
     }
 
     .footer__link:last-child {
