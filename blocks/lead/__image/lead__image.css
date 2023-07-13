@@ -1,8 +1,6 @@
 .lead__image {
-    display: block;
     max-width: 100%;
     min-height: 615px;
-    object-fit: cover;
     padding-top: 64px;   
 }
 
@@ -21,6 +19,5 @@
 @media screen and (max-width: 320px) {
     .lead__image {
         padding-top: 40px;
-        min-height: 200px;
     }
 }
