@@ -4,7 +4,7 @@
     justify-content: space-between;
     margin: 0 auto;
     padding-top: 92px;
-    padding-bottom: 48px;
+    padding-bottom: 24px;
     max-width: calc(100% - 96px);
 }
 
@@ -12,10 +12,8 @@
     .footer {
         max-width: calc(100% - 48px);
         padding-top: 88px;
-        padding-bottom: 24px;
     }
 }
-
 
 @media screen and (max-width: 740px) {
     .footer {
