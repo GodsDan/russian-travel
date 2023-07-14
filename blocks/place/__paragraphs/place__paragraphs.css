@@ -1,11 +1,11 @@
-.place__two-paragraph {
+.place__paragraphs {
     padding: 0;
     margin: 0;
     max-width: 484px;
 }
 
 @media screen and (max-width: 320px) {
-    .place__two-paragraph {
+    .place__paragraphs {
         padding: 0 16px 0 16px;
         
     }

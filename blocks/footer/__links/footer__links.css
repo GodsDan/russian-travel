@@ -5,17 +5,11 @@
 
 }
 
-@media screen and (max-width: 740px) {
+@media screen and (max-width: 510px) {
     .footer__links {
         flex-direction: column;
         gap: 32px;
         justify-content: center;
-        align-items: center;
-    }
-}
-
-@media screen and (max-width: 500px) {
-    .footer__links {
         align-items: flex-start;
     }
 }
